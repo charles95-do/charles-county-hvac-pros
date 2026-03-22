@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charlescountyhvacpros.com/sitemap.xml
